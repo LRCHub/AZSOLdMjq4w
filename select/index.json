@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "This Door（feat. TWIGY）",
+  "base_artist": "SALU",
+  "createdAt": "2026-02-06T18:08:27.949042Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "This Door (feat. TWIGY)",
+      "artist": "SALU",
+      "has_synced": false,
+      "path": "select/pl_01_This_Door_(feat._TWIGY)_SALU.txt"
+    }
+  ]
+}
